@@ -9,7 +9,7 @@ const date_laos_DAYS = array('ອາທິດ', 'ຈັນ', 'ອັງຄານ
 const date_laos_SEARCH_KEYWORDS = array('$ວທວທ', '$ວທ', '$ວວ', '$ດດ',  '$ປປປປ');
 
 /**
- * date_laos() ฟังก์ชันสำหรับแสดงผลวันที่ภาษาไทยในรูปแบบที่กำหนด
+ * date_laos() ຟັງຊັ່ນສຳລັບການແປງວັນ ແລະເດືອຮເປັນພາສາລາວຕາມແບບທີ່ກຳນົດ
  * @param string $format
  * @param bool|int $timestamp
  * @return false|string
